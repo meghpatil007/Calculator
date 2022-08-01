@@ -4,3 +4,4 @@ b=20
 sum=a+b
 sub=a-b
 multiply=a*b
+divion=a/b
