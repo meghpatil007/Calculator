@@ -5,3 +5,4 @@ sum=a+b
 sub=a-b
 multiply=a*b
 divion=a/b
+percentage=answer/100
